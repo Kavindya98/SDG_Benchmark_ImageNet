@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+python -u -m evaluvation --max_epoch 30 --optimizer Adam --network DeiTBase  --log_path Results/DeiTBase_AugMix_CNN_Head_ReInitialized_5 --wd 0 --world_size 4 --batch_size 64 --pretrained --head_re_initialized

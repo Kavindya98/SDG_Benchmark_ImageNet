@@ -1,0 +1,199 @@
+n02066245:grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus
+n02423022:gazelle
+n02346627:porcupine, hedgehog
+n02077923:sea lion
+n02447366:badger
+n02071294:killer whale, killer, orca, grampus, sea wolf, Orcinus orca
+n02117135:hyena, hyaena
+n02110341:dalmatian, coach dog, carriage dog
+n02356798:fox squirrel, eastern fox squirrel, Sciurus niger
+n02094433:Yorkshire terrier
+n02119022:red fox, Vulpes vulpes
+n02129604:tiger, Panthera tigris
+n02391049:zebra
+n02480495:orangutan, orang, orangutang, Pongo pygmaeus
+n02128385:leopard, Panthera pardus
+n02481823:chimpanzee, chimp, Pan troglodytes
+n02364673:guinea pig, Cavia cobaya
+n02134084:ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus
+n02480855:gorilla, Gorilla gorilla
+n02099601:golden retriever
+n02106166:Border collie
+n02108089:boxer
+n02486410:baboon
+n02395406:hog, pig, grunter, squealer, Sus scrofa
+n02410509:bison
+n02398521:hippopotamus, hippo, river horse, Hippopotamus amphibius
+n02510455:giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca
+n02123045:tabby, tabby cat
+n02109525:Saint Bernard, St Bernard
+n02483362:gibbon, Hylobates lar
+n02437616:llama
+n02325366:wood rabbit, cottontail, cottontail rabbit
+n02129165:lion, king of beasts, Panthera leo
+n02363005:beaver
+n02114367:timber wolf, grey wolf, gray wolf, Canis lupus
+n02130308:cheetah, chetah, Acinonyx jubatus
+n02106662:German shepherd, German shepherd dog, German police dog, alsatian
+n01882714:koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus
+n04086273:revolver, six-gun, six-shooter
+n04147183:schooner
+n04254680:soccer ball
+n02672831:accordion, piano accordion, squeeze box
+n02219486:ant, emmet, pismire
+n02317335:starfish, sea star
+n03452741:grand piano, grand
+n07745940:strawberry
+n04552348:warplane, military plane
+n04266014:space shuttle
+n02951358:canoe
+n03947888:pirate, pirate ship
+n04347754:submarine, pigboat, sub, U-boat
+n04389033:tank, army tank, armored combat vehicle, armoured combat vehicle
+n03773504:missile
+n02797295:barrow, garden cart, lawn cart, wheelbarrow
+n04310018:steam locomotive
+n02701002:ambulance
+n03594945:jeep, landrover
+n03345487:fire engine, fire truck
+n03930630:pickup, pickup truck
+n04465501:tractor
+n07742313:Granny Smith
+n07749582:lemon
+n07753275:pineapple, ananas
+n07753592:banana
+n07768694:pomegranate
+n12267677:acorn
+n03495258:harp
+n03272010:electric guitar
+n04487394:trombone
+n03494278:harmonica, mouth organ, harp, mouth harp
+n04141076:sax, saxophone
+n03372029:flute, transverse flute
+n09472597:volcano
+n03498962:hatchet
+n03649909:lawn mower, mower
+n03481172:hammer
+n01514859:hen
+n01518878:ostrich, Struthio camelus
+n01531178:goldfinch, Carduelis carduelis
+n01534433:junco, snowbird
+n01614925:bald eagle, American eagle, Haliaeetus leucocephalus
+n01616318:vulture
+n01806143:peacock
+n01820546:lorikeet
+n01833805:hummingbird
+n01843383:toucan
+n01847000:drake
+n01855672:goose
+n01860187:black swan, Cygnus atratus
+n02007558:flamingo
+n02009912:American egret, great white heron, Egretta albus
+n02051845:pelican
+n02056570:king penguin, Aptenodytes patagonica
+n01484850:great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias
+n01494475:hammerhead, hammerhead shark
+n01498041:stingray
+n01443537:goldfish, Carassius auratus
+n02526121:eel
+n02607072:anemone fish
+n02655020:puffer, pufferfish, blowfish, globefish
+n01677366:common iguana, iguana, Iguana iguana
+n01694178:African chameleon, Chamaeleo chamaeleon
+n01748264:Indian cobra, Naja naja
+n01630670:common newt, Triturus vulgaris
+n01632777:axolotl, mud puppy, Ambystoma mexicanum
+n01644373:tree frog, tree-frog
+n03467068:guillotine
+n02841315:binoculars, field glasses, opera glasses
+n02950826:cannon
+n02749479:assault rifle, assault gun
+n03602883:joystick
+n02966193:carousel, carrousel, merry-go-round, roundabout, whirligig
+n02948072:candle, taper, wax light
+n04275548:spider web, spider's web
+n01770393:scorpion
+n01774750:tarantula
+n01784675:centipede
+n01983481:American lobster, Northern lobster, Maine lobster, Homarus americanus
+n01986214:hermit crab
+n02165456:ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle
+n02190166:fly
+n02206856:bee
+n02226429:grasshopper, hopper
+n02233338:cockroach, roach
+n02236044:mantis, mantid
+n02268443:dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk
+n02279972:monarch, monarch butterfly, milkweed butterfly, Danaus plexippus
+n01910747:jellyfish
+n01944390:snail
+n02939185:caldron, cauldron
+n02793495:barn
+n02980441:castle
+n02814860:beacon, lighthouse, beacon light, pharos
+n07720875:bell pepper
+n07714571:head cabbage
+n07714990:broccoli
+n07718472:cucumber, cuke
+n07734744:mushroom
+n04133789:sandal
+n07693725:bagel, beigel
+n04536866:violin, fiddle
+n04192698:shield, buckler
+n02823750:beer glass
+n02883205:bow tie, bow-tie, bowtie
+n02909870:bucket, pail
+n04591713:wine bottle
+n02843684:birdhouse
+n02769748:backpack, back pack, knapsack, packsack, rucksack, haversack
+n02906734:broom
+n02128757:snow leopard, ounce, Panthera uncia
+n03676483:lipstick, lip rouge
+n03775071:mitten
+n04522168:vase
+n04118538:rugby ball
+n03124170:cowboy hat, ten-gallon hat
+n02808440:bathtub, bathing tub, bath, tub
+n07697537:hotdog, hot dog, red hot
+n07880968:burrito
+n02802426:basketball
+n02113799:standard poodle
+n02992529:cellular telephone, cellular phone, cellphone, cell, mobile phone
+n03710193:mailbox, letter box
+n03630383:lab coat, laboratory coat
+n03888257:parachute, chute
+n07920052:espresso
+n07873807:pizza, pizza pie
+n09835506:ballplayer, baseball player
+n02445715:skunk, polecat, wood pussy
+n04146614:school bus
+n04409515:tennis ball
+n03424325:gasmask, respirator, gas helmet
+n07614500:ice cream, icecream
+n07695742:pretzel
+n02138441:meerkat, mierkat
+n10565667:scuba diver
+n07697313:cheeseburger
+n04325704:stole
+n02091134:whippet
+n02092339:Weimaraner
+n02088466:bloodhound, sleuthhound
+n02106550:Rottweiler
+n02098286:West Highland white terrier
+n02108915:French bulldog
+n02088094:Afghan hound, Afghan
+n02113624:toy poodle
+n02097298:Scotch terrier, Scottish terrier, Scottie
+n02096585:Boston bull, Boston terrier
+n02086240:Shih-Tzu
+n02112018:Pomeranian
+n02106030:collie
+n02088364:beagle
+n02110958:pug, pug-dog
+n02088238:basset, basset hound
+n02112137:chow, chow chow
+n02085620:Chihuahua
+n02099712:Labrador retriever
+n02091032:Italian greyhound
+n02102318:cocker spaniel, English cocker spaniel, cocker
+n02113023:Pembroke, Pembroke Welsh corgi

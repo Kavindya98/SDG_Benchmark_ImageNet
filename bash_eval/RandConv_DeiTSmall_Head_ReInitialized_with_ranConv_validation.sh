@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#python -u -m evaluvation --loss_aug --consistancy_loss 10 --max_epoch 30 --optimizer Adam --network DeiTSmall  --log_path Results/RandConv_DeiTSmall_Head_ReInitialized_with_ranConv_validation --wd 0 --world_size 4 --batch_size 64 --pretrained --head_re_initialized
+python -u -m evaluvation_classwise --loss_aug --consistancy_loss 10 --max_epoch 30 --optimizer Adam --network DeiTSmall  --log_path Results/RandConv_DeiTSmall_Head_ReInitialized_with_ranConv_validation --wd 0 --world_size 4 --batch_size 64 --pretrained --head_re_initialized

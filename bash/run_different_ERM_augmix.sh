@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+python -u -m imagenet_ddp_AugMix_2 --max_epoch 30 --Freeze_bn --optimizer SGD --network ResNet50  --log_path Results/ResNet50_AugMix_CNN_Head_ReInitialized_different_ERM --lr 0.0001 --wd 0 --world_size 4 --batch_size 64 --pretrained --pretrained_custom_weights --head_re_initialized

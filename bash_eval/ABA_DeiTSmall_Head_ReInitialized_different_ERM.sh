@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+python -u -m evaluvation --max_epoch 30 --lr_adv 0.0005 --optimizer Adam --elbo_bet 1 --num_blocks 0 --pre_epoch 4 --network DeiTSmall --log_path Results/ABA_DeiTSmall_Head_ReInitialized_2 --wd 0 --world_size 4 --adv_steps 10 --batch_size 64 --pretrained --head_re_initialized

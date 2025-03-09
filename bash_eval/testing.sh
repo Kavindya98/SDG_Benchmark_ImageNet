@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+python -u -m evaluvation --max_epoch 90 --optimizer SGD --network ResNet50  --log_path Results/AugMix_CNN_From_Scratch_2 --lr 0.1 --wd 0.0001 --world_size 4 --batch_size 64 --lr_scheduler StepLR --pretrained
